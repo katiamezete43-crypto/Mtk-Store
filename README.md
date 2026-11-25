@@ -14,6 +14,7 @@ O sistema conta com um menu lateral para facilitar a navegação entre as funcio
 
 
 - **Tela de Cadastro** – Cadastro de novos usuários.
+- 
   <img width="447" height="611" alt="Captura de tela 2026-11-25 151941" src="https://github.com/user-attachments/assets/f3561cad-e8c3-4a38-b9c9-8336b4bdc0cd" />
 
 - **Tela Inicial** – Página principal do sistema.
