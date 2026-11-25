@@ -27,7 +27,7 @@ O sistema conta com um menu lateral para facilitar a navegação entre as funcio
   <img width="1917" height="1016" alt="Captura de tela 2026-11-25 152052" src="https://github.com/user-attachments/assets/1db4d132-0d6c-4008-85d2-159a213fe555" />
 
 - **Tela de Clientes** – Gerenciamento das informações dos clientes
-- 
+  
   <img width="1916" height="1012" alt="Captura de tela 2026-11-25 152337" src="https://github.com/user-attachments/assets/dbf8b0e4-e5c1-462e-987f-8ba62953d1bf" />
 
 - **Tela de Vendas** – Registro de vendas, seleção de clientes, produtos e formas de pagamento.
