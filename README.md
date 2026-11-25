@@ -22,7 +22,7 @@ O sistema conta com um menu lateral para facilitar a navegação entre as funcio
   
   <img width="1917" height="1010" alt="Captura de tela 2026-11-25 160020" src="https://github.com/user-attachments/assets/b09d1d74-1805-4061-b19b-3e51e984eaac" />
 
-- **Tela de Produtos** – Cadastro, alteração, exclusão e consulta de produtos.
+- **Tela de Produtos** – Cadastro, alteração, exclusão e limpeza do sistema.
   
   <img width="1917" height="1016" alt="Captura de tela 2026-11-25 152052" src="https://github.com/user-attachments/assets/1db4d132-0d6c-4008-85d2-159a213fe555" />
 
